@@ -1,0 +1,15 @@
+---
+title: Site Archives
+layout: archive
+pageable: true
+---
+<% @archives.each do |archive| %>
+	<h2 class="archiveTitle"><%= archive[:year] %></h2>
+	<meta itemprop="itemListOrder" content="Descending" />
+		<% archive[:articles].each do |article| %>
+			<article class="titles">
+		    <h2><a href="<%= article.url %>"><%= article.title %></a></h2>
+		    <span class="postDetails clearfix"><time datetime="<%= article.date.strftime('%m-%Y') %>" class="date details"><%= article.date.strftime('%b %e %Y') %></time></span>
+  			</article>
+		<% end %>
+<% end %>
