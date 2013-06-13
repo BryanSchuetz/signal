@@ -28,7 +28,12 @@ body{
   font-family: 'ff-meta-serif-web-pro', Georgia, serif; 
   background: #F2F2F0;
   color: #666;
+  visibility: hidden;
 }
+.wf-active body{
+  visibility: visible;
+}
+
 a, a:visited{
   color: #0179A5;
   text-decoration: none;
@@ -101,6 +106,9 @@ article, article.single{
   .last{
     margin-right: 0;
   }
+}
+.emptyButton{
+  opacity: 0.5;
 }
 .imageContainer{
   max-width: 500px / $em;
