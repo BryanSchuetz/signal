@@ -9,7 +9,7 @@
         <pubDate>Mon, 13 Oct 1970 16:45:00 +0000</pubDate>
         <ttl>1800</ttl>
  
-        <% blog.articles.each do |article| %>
+        <% blog.articles.each_with_index do |article| %>
         <item>
           <title><%= escape_html article.title %></title>
           <description><%= strip_tags article.summary %></description>
