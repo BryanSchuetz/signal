@@ -5,10 +5,19 @@
         <description>We shape our tools, and then our tools shape us.</description>
         <link>http://localhost:4567</link>
         <language>en-us</language>
-        <lastBuildDate>Thu, 17 Apr 2014 11:29:01 -0400</lastBuildDate>
+        <lastBuildDate>Mon, 01 Dec 2014 15:06:32 -0500</lastBuildDate>
         <pubDate>Mon, 13 Oct 1970 16:45:00 +0000</pubDate>
         <ttl>1800</ttl>
  
+        
+        <item>
+          <title>Baltimore</title>
+          <description>I lived in Baltimore for nearly 10 years and it's maybe my favorite city in America. The Wire was in production for most of the time I was living there, and it was a common sight to see actors milling about a cluster of Haddad's trucks anywhere in the city. It is, without a doubt, one of the best TV shows ever. 
+   
+    Is the universe sufficiently vast to contain both the empirical fact that a Faidley’s backfin crabcake is the world’s best and that Baltimore is the fifth most dangerous city in America?</description>
+          <link>http://localhost:4567/jibber-jabber/2014/the-wire.html</link>
+          <pubDate>Mon, 01 Dec 2014 17:00:00 +0000</pubDate>
+        </item>
         
         <item>
           <title>In the Middle with Middleman and Frameless</title>
