@@ -67,7 +67,7 @@ activate :blog do |blog|
   blog.day_link = ":year/:month/:day.html"
   blog.calendar_template = "calendar.html"
   blog.paginate = true
-  blog.per_page = 20
+  blog.per_page = 4
   blog.page_link = "page/:num"
 end
 ready do
