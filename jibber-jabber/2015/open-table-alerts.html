@@ -17,7 +17,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <meta name="description" content="The Distress Signal: lightweight backpacking, web design, web development, os x, photography.">
 
-    <title>Tag Page ||| The Distress Signal</title>
+    <title>Open Table Alerts ||| The Distress Signal</title>
     <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css" />
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js" type="text/javascript"></script>
 <script src="http://use.typekit.net/rkg8wod.js" type="text/javascript"></script>
@@ -37,31 +37,46 @@
   </head>  
   <body lang="en">
     <div id="container">
-      <header>    
+      <header>
         <h1><a href="/">Distress Signal</a></h1>
     <div id="intro">
      <p class="subTitle details">We shape our tools, and then our tools shape us.</p>
     </div>
     <hr>
         <nav class="clearfix">
-          <span class="navLinks details"><a href="http://twitter.com/bryanschuetz"><i class="ss-icon ss-social-circle">&#xF611;</i>Twitter</a><a href="/rss.rss"><i class="ss-icon ss-social-circle">&#xE310;</i>RSS</a><a class="last" href="mailto:bschuetzATgmail.com"><i class="ss-icon ss-social-circle">&#x2709;</i>Contact</a></span>
-</nav>
+          <div class="navButton button previousButton">
+            <a class="previous details" href="/jibber-jabber/2015/cathedral.html"><span class="ss-icon ">&#x23EA;</span>Earlier</a>
+          </div>
+          
+          
+            <div class="navButton button nextButton">
+              <a href="/archives.html" class="next details">Archive<span class="ss-icon">&#xE9A1;</span></a>
+            </div>
+          
+         <span class="navLinks details"><a href="http://twitter.com"><i class="ss-icon ss-social-circle">&#xF611;</i>Twitter</a><a href="/rss.rss"><i class="ss-icon ss-social-circle">&#xE310;</i>RSS</a><a class="last" href="mailto:blank@blank.com"><i class="ss-icon ss-social-circle">&#x2709;</i>Contact</a></span>
+        </nav>
       </header>
-      <h2 class="tagTitle">#ruby</h2>
-<meta itemprop="itemListOrder" content="Descending" />
-  
-  <article class="titles">
-    <h2><a href="/jibber-jabber/2015/open-table-alerts.html">Open Table Alerts</a></h2>
-		    <span class="postDetails clearfix"><time datetime="02-2015" class="date details">Feb  3 2015</time></span>
-  			</article>
-  
-  <article class="titles">
-    <h2><a href="/jibber-jabber/2013/middleman-and-frameless.html">In the Middle with Middleman and Frameless</a></h2>
-		    <span class="postDetails clearfix"><time datetime="04-2013" class="date details">Apr 19 2013</time></span>
-  			</article>
-  
-    
+      <article class="single">
+        <h2><a href="/jibber-jabber/2015/open-table-alerts.html">Open Table Alerts</a></h2>
+        <span class="postDetails clearfix"><time class="date details">Feb  3 2015</time><span class="tagLinks details">Tags: 	
+	  <span class="tags"><a class="tags" href="/jibber-jabber/tags/ruby.html">ruby</a></span>
+	
+	  <span class="tags"><a class="tags" href="/jibber-jabber/tags/dc.html">dc</a></span>
+	</span></span>
+        <div class="articleBody clearfix">
+  <p>Sometimes I forget to do stuff. Like making reservations for Valentines Day Dinner weeks and weeks in advance because the girl wants to go to some super popular restaurant. What to do? Well, if the restaurant refuses to keep a stand-by list and is wired up to something like <a href="http://opentable.com">Open Table</a> it's not as bad as you might think.</p>
 
+  <img src="/images/posts/resicat.jpg" />
+
+
+  <p>I knocked up this quick script to query Open Table for available reservations for 2 with the target restaurant at 7:00pm on the 14th. If it's still all booked up, I'll get a very sad notification from Resicat letting me know. If there's a cancellation and something opens up, Resicat will speak up and give me a link to book the newly opened table.</p>
+
+  <p>Then I created a <a href="http://en.wikipedia.org/wiki/Launchd">launchd daemon</a> to run the script every 15 minutes. As it gets down to the wire, perhaps I'll have it run more frequently. I actually wrote this script last year when I crossed wires with the girl regarding a birthday dinner—it worked great and we were able to grab a cancelled table with no trouble. Since then it looks like Open Table has started rolling out its own <a href="http://alerts.opentable.com/login">alerts service</a>, but it's an invite only beta at the moment, and only works in NYC and LA.</p>
+
+  <p>Once I can get a Hot Tables login I'll probably set Resicat free but untill then he'll stay on the job, and I'm certain he won't let me down.</p>
+</div>
+
+      </article>
       <footer class="footer clearfix">
 	<div class="contact">
 		<p class="details">The Distress Signal is the personal blog of Bryan Schuetz. Bryan has been complaining on the Internet since 1985. If you'd like to get in touch with Bryan, you can <a href="mailto:bschuetzATgmail.com">mail</a> him or find him on <a href="http://twitter.com/bryanschuetz">twitter</a>.</p>
