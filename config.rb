@@ -48,7 +48,7 @@ helpers do
     Sanitize.clean(html.strip).strip
   end
 end
-
+set :base_pather, 'http://localhost:4567'
 set :css_dir, 'stylesheets'
 
 set :js_dir, 'javascripts'
@@ -91,6 +91,7 @@ set :markdown, :layout_engine => :erb,
 configure :build do
   # For example, change the Compass output style for deployment
   activate :minify_css
+  set :base_pather, 'http://distresssignal.org'
   # Minify Javascript on build
   activate :sprockets
   activate :minify_javascript

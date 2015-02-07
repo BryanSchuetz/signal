@@ -3,17 +3,16 @@
 <channel>
         <title>The Distress Signal</title>
         <description>We shape our tools, and then our tools shape us.</description>
-        <link>http://localhost:4567</link>
+        <link>http://distresssignal.org</link>
         <language>en-us</language>
         <lastBuildDate><%= Time.now.strftime("%a, %d %b %Y %H:%M:%S %z") %></lastBuildDate>
         <pubDate>Mon, 13 Oct 1970 16:45:00 +0000</pubDate>
         <ttl>1800</ttl>
- 
         <% blog.articles.each_with_index do |article| %>
         <item>
           <title><%= escape_html article.title %></title>
-          <description><%= strip_tags article.summary %></description>
-          <link>http://localhost:4567<%= article.url %></link>
+          <description><%= article.summary %></description>
+          <link>http://distresssignal.org<%= article.url %></link>
           <pubDate><%= article.date.strftime("%a, %d %b %Y %H:%M:%S %z") %></pubDate>
         </item>
         <% end %> 
