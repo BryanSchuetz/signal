@@ -5,9 +5,27 @@
         <description>We shape our tools, and then our tools shape us.</description>
         <link>http://distresssignal.org</link>
         <language>en-us</language>
-        <lastBuildDate>Sun, 01 Mar 2015 15:12:32 -0500</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2015 18:53:06 -0400</lastBuildDate>
         <pubDate>Mon, 13 Oct 1970 16:45:00 +0000</pubDate>
         <ttl>1800</ttl>
+        
+        <item>
+          <title>Culture Ship Randomizer</title>
+          <description><div class="articleBody clearfix">
+
+  <p>I have to name things all the time—servers, databases, directories, functions, classes, mixins, etc. It's kind of a pain. As <a href="https://www.quora.com/Why-is-naming-things-hard-in-computer-science-and-how-can-it-can-be-made-easier?share=1">everyone knows</a>:
+  </p>
+
+  <blockquote>"There are only two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors."<br>—Phil Karlton</blockquote>
+
+  <p>As I've <a href="http://distresssignal.org/jibber-jabber/2015/tier.html">said before</a>, I'm also a big fan of Iain Banks' <a href="http://en.wikipedia.org/wiki/Culture_series">Culture Series</a>. <strong>That's why I built this <a href="http://bryanschuetz.github.io/culture-namer">quick and easy tool</a> to generate Culture Ship names at random, for whenever I need to use a random name</strong>. OK, it was mostly an excuse to learn how Jekyll's newish <a href="http://jekyllrb.com/docs/collections/">collections</a> feature works—but two birds, one stone, and all that. There's even a bundled script for generating names at the command line.</p>
+
+  <img src="http://distresssignal.org/images/posts/culture-tools.jpg" alt="">
+
+</description>
+          <link>http://distresssignal.org/jibber-jabber/2015/culture-namer.html</link>
+          <pubDate>Sun, 22 Mar 2015 17:00:00 +0000</pubDate>
+        </item>
         
         <item>
           <title>Tier</title>
@@ -92,8 +110,8 @@
         <item>
           <title>Quicksilver</title>
           <description><div class="articleBody clearfix">
-	 <blockquote>To be a European Christian (the rest of the world might be forgiven for thinking) was to build ships and sail them to any and all coasts not already a-bristle with cannons, make landfall at river’s mouth, kiss the dirt, plant a cross for a flag, scare the hell out of any indigenes with a musketry demo’, and - having come so far, and suffered and risked so much - unpack a shallow basin and scoop up some muck from the river-bottom.</blockquote>
-</description>
+	 <blockquote>To be a European Christian (the rest of the world might be forgiven for thinking) was to build ships and sail them to any and all coasts not already a-bristle with cannons, make landfall at river’s mouth, kiss the dirt, plant a cross for a flag...</blockquote>
+</div></description>
           <link>http://distresssignal.org/jibber-jabber/2012/quicksilver.html</link>
           <pubDate>Wed, 20 Jun 2012 22:00:00 +0000</pubDate>
         </item>
@@ -247,8 +265,8 @@
         <item>
           <title>Shenandoah</title>
           <description><div class="articleBody clearfix">
-	<p>I spent last weekend hiking around in <a href="http://www.nps.gov/shen/index.htm" style="color: rgb(1, 121, 165); "> Shenandoah National Park </a> and despite having not been hiking for  a long time had an absolute blast. The park runs roughly north south for over 100 miles along the spine of the Blue Ridge Mountains and encompasses nearly 200,000 acres 80,000 of which are protected as wilderness areas under the <a href="http://en.wikipedia.org/wiki/National_Wilderness_Preservation_System">National Wilderness Preservation System</a>. Skyline drive runs the length of the park and cuts essentially right down the middle offering an abundance of scenic overlooks filled with hollows and ridges covered in timber. There’s lots of wildlife to be seen and while hiking a 12 mile loop in the largest of the parks wilderness areas I spotted a skunk, 2 grouse, a turkey and a black bear along the trail.</p>
-</description>
+	<p>I spent last weekend hiking around in <a href="http://www.nps.gov/shen/index.htm" style="color: rgb(1, 121, 165); "> Shenandoah National Park </a> and despite having not been hiking for  a long time had an absolute blast. The park runs roughly north south for over 100 miles along the spine of the Blue Ridge Mountains and encompasses...</p>
+</div></description>
           <link>http://distresssignal.org/jibber-jabber/2009/shenandoah.html</link>
           <pubDate>Tue, 15 Sep 2009 22:00:00 +0000</pubDate>
         </item>
@@ -257,7 +275,8 @@
           <title>AppleBlog Roundup 2</title>
           <description><div class="articleBody clearfix">
 	 <p>Over the last couple of weeks I’ve written a few articles over at <a href="http://theappleblog.com/author/bryanschuetz/" style="color: rgb(1, 121, 165); ">TheAppleBlog</a> and wanted to include a roundup post to them all here for the sake of completeness:</p>
-</description>
+	<p><a href="http://theappleblog.com/2009/06/30/fairmount-convert-your-dvd-collection/">Convert Your DVD Collection with Fairmount:</a> We’ve all had situations where we’ve...</p>
+</div></description>
           <link>http://distresssignal.org/jibber-jabber/2009/appleblog-roundup-2.html</link>
           <pubDate>Mon, 10 Aug 2009 22:00:00 +0000</pubDate>
         </item>
@@ -265,8 +284,8 @@
         <item>
           <title>Wikipedia is Evil</title>
           <description><div class="articleBody clearfix">
-	  <p><a href="http://www.wikipedia.org/">Wikipedia</a> is evil, yeah that’s right evil. The other day I was tooling around in the o’le RSS river of news when I stumbled upon a random tweet from apparent <a href="http://en.wikipedia.org/wiki/Daniel_J._Bernstein" style="color: rgb(1, 121, 165); ">computing legend</a>  Daniel Bernstein. Who, though I confess I’d never heard of him before (please don’t make me turn in my geek card), was apparently instrumental in getting software code recognized by the judicial branch as protected speech under the First Amendment. His message read simply:<br></p>
-</description>
+	  <p><a href="http://www.wikipedia.org/">Wikipedia</a> is evil, yeah that’s right evil. The other day I was tooling around in the o’le RSS river of news when I stumbled upon a random tweet from apparent <a href="http://en.wikipedia.org/wiki/Daniel_J._Bernstein" style="color: rgb(1, 121, 165); ">computing legend</a>  Daniel Bernstein. Who, though I confess I’d never heard of him before...</p>
+</div></description>
           <link>http://distresssignal.org/jibber-jabber/2009/wikipedia-is-evil.html</link>
           <pubDate>Sun, 05 Jul 2009 22:00:00 +0000</pubDate>
         </item>
@@ -274,8 +293,8 @@
         <item>
           <title>Verified Reporters</title>
           <description><div class="articleBody clearfix">
-	 <p>I spent some time last night tracking the events unfolding in Iran following the apparent re-election of President Mahmoud Ahmadinejad. Unless you’ve been living under a rock for the last 48 hours you know that there appears to be widespread doubt about the legitimacy of the election results and that supporters of Ahmadinejad’s chief opponent Mir Hussein Moussavi have been openly clashing with the government in protests across the country.</p>
-</description>
+	 <p>I spent some time last night tracking the events unfolding in Iran following the apparent re-election of President Mahmoud Ahmadinejad. Unless you’ve been living under a rock for the last 48 hours you know that there appears to be widespread doubt...</p>
+</div></description>
           <link>http://distresssignal.org/jibber-jabber/2009/verified-reporters.html</link>
           <pubDate>Sat, 20 Jun 2009 22:00:00 +0000</pubDate>
         </item>
@@ -284,7 +303,8 @@
           <title>AppleBlog Roundup 1</title>
           <description><div class="articleBody clearfix">
 	 <p>Over the last couple of weeks I’ve written a few articles over at <a href="http://theappleblog.com/author/bryanschuetz/">TheAppleBlog</a> and wanted to include a roundup post to them all here for the sake of completeness:</p>
-</description>
+	<p><a href="http://theappleblog.com/2009/06/23/nambu-solves-twitter-clutter/">Nambu Review:</a> A quick review of the native OS X twitter client Nambu.  I like Nambu...</p>
+</div></description>
           <link>http://distresssignal.org/jibber-jabber/2009/appleblog-roundup-1.html</link>
           <pubDate>Fri, 05 Jun 2009 22:00:00 +0000</pubDate>
         </item>
@@ -292,8 +312,8 @@
         <item>
           <title>Feed a Fever</title>
           <description><div class="articleBody clearfix">
-	 <p>I’ve gone through a number of different solutions for managing my RSS feeds. It’s been an ongoing evolution from Live Bookmarks to BlogLines to GoogleReader to NetNewsWire to my most recent solution, using sync’d versions of NewsFire. I absolutely love NewsFire and lets face it <a href="http://www.newsfirex.com/blog/">Dave Watanabe</a> knows how to make some beautiful OS X applications. </p>
-</description>
+	 <p>I’ve gone through a number of different solutions for managing my RSS feeds. It’s been an ongoing evolution from Live Bookmarks to BlogLines to GoogleReader to NetNewsWire to my most recent solution, using sync’d versions of NewsFire. I absolutely...</p>
+</div></description>
           <link>http://distresssignal.org/jibber-jabber/2009/feed-a-fever.html</link>
           <pubDate>Mon, 01 Jun 2009 22:00:00 +0000</pubDate>
         </item>
@@ -301,8 +321,8 @@
         <item>
           <title>All Things Apple</title>
           <description><div class="articleBody clearfix">
-	  <p>So I’ve decided to go ahead and throw in my lot with the good folks over at TheAppleBlog when it comes to my rants and reviews about all things Apple, OS X and the like. You’ll be able to see the articles I contribute over there by going to my <a href="http://theappleblog.com/author/bryanschuetz/">Author Archive Page</a> or better yet by grabbing the <a href="http://feeds.feedburner.com/theappleblog"> RSS Feed</a> for the whole site. My first post on Proximity Automation (using Bluetooth and AppleScript to automatically fire off actions based on your proximity to the computer) is already available.</p>
-</description>
+	  <p>So I’ve decided to go ahead and throw in my lot with the good folks over at TheAppleBlog when it comes to my rants and reviews about all things Apple, OS X and the like. You’ll be able to see the articles I contribute over there by going to my...</p>
+</div></description>
           <link>http://distresssignal.org/jibber-jabber/2009/all-things-apple.html</link>
           <pubDate>Wed, 20 May 2009 22:00:00 +0000</pubDate>
         </item>
@@ -310,8 +330,8 @@
         <item>
           <title>What Can I Dev For My Country</title>
           <description><div class="articleBody clearfix">
-	<p>A little while ago I ran across <a href="http://web.archive.org/web/20090226004533/http://technosailor.com/2009/02/21/ask-not-what-your-country-can-dev-for-you/">this post</a> from <a href="http://twitter.com/corbett3000">@corbett3000</a> about the need for greater civic involvement from the tech community. This was a call to "build stuff that matters” to help the country do more with less, keep our leaders honest, their governance transparent, and plainly put—to fix crap that’s broken.</p>
-</description>
+	<p>A little while ago I ran across <a href="http://web.archive.org/web/20090226004533/http://technosailor.com/2009/02/21/ask-not-what-your-country-can-dev-for-you/">this post</a> from <a href="http://twitter.com/corbett3000">@corbett3000</a> about the need for greater civic involvement from the tech community. This was a call to "build stuff that matters” to help the country do more with less, keep our leaders honest, their...</p>
+</div></description>
           <link>http://distresssignal.org/jibber-jabber/2009/what-can-i-dev.html</link>
           <pubDate>Wed, 25 Feb 2009 22:00:00 +0000</pubDate>
         </item>
@@ -319,8 +339,8 @@
         <item>
           <title>Syncing NewsFire</title>
           <description><div class="articleBody clearfix">
-	  <p>I just switched all my feed reading over to the newly released 1.6 version of <a href="http://www.newsfirex.com/blog/?p=383">NewsFire</a> and I’m loving it. The interface is gorgeous and the keyboard shortcuts make powering through a large number of feeds a breeze. Add in the new twitter <a href="http://www.newsfirex.com/blog/?p=364">plugin for Safari</a>, subscribe to some key twitter users and you’ve almost rolled your own twitter client. </p>
-</description>
+	  <p>I just switched all my feed reading over to the newly released 1.6 version of <a href="http://www.newsfirex.com/blog/?p=383">NewsFire</a> and I’m loving it. The interface is gorgeous and the keyboard shortcuts make powering through a large number of feeds a breeze. Add in the new twitter <a href="http://www.newsfirex.com/blog/?p=364">plugin...</a></p>
+</div></description>
           <link>http://distresssignal.org/jibber-jabber/2009/syncing-newsfire.html</link>
           <pubDate>Sun, 15 Feb 2009 22:00:00 +0000</pubDate>
         </item>
@@ -328,8 +348,8 @@
         <item>
           <title>Acceleration Curves</title>
           <description><div class="articleBody clearfix">
-  	<p>I love OS X. It’s far and away the best operating system I’ve ever used.  There are a couple things about it though that have always been a frustration for me. Chief among them is the way movement of the mouse on your desk is translated to movement of the cursor on your screen a process handled by something called the “Acceleration Curve”.</p>
-</description>
+  	<p>I love OS X. It’s far and away the best operating system I’ve ever used.  There are a couple things about it though that have always been a frustration for me. Chief among them is the way movement of the mouse on your desk is translated to movement...</p>
+</div></description>
           <link>http://distresssignal.org/jibber-jabber/2009/acceleration-curves.html</link>
           <pubDate>Wed, 11 Feb 2009 22:00:00 +0000</pubDate>
         </item>
@@ -337,8 +357,8 @@
         <item>
           <title>Pimp Your Quicklook</title>
           <description><div class="articleBody clearfix">
-	  <p>I’m lucky enough to be able to work on an OS X system at my day job but officially it’s a “Microsoft shop” with most people on Windows and our intranet powered by <a href="http://www.microsoft.com/Sharepoint/default.mspx">SharePoint</a>. We store a lot of documents on SharePoint and it’s always a pain in the ass to have to fire up mac office to have a quick look at a .doc or .xls file. To make matters worse there are a lot of Office 2007 files that my version of mac office won’t open.</p>
-</description>
+	  <p>I’m lucky enough to be able to work on an OS X system at my day job but officially it’s a “Microsoft shop” with most people on Windows and our intranet powered by <a href="http://www.microsoft.com/Sharepoint/default.mspx">SharePoint</a>. We store a lot of documents on SharePoint and it’s always a pain in the...</p>
+</div></description>
           <link>http://distresssignal.org/jibber-jabber/2009/pimp-your-quicklook.html</link>
           <pubDate>Tue, 10 Feb 2009 22:00:00 +0000</pubDate>
         </item>
@@ -346,8 +366,8 @@
         <item>
           <title>QuickPukka</title>
           <description><div class="articleBody clearfix">
-	  <p>With almost 100 feeds sitting in my RSS reader (<a href="http://www.newsgator.com/INDIVIDUALS/NETNEWSWIRE/">Net News Wire</a>) I’ve got a lot of information coming at me everyday.  When I see something that I know I’ll want to come back to later I save it as a bookmark on the social bookmarking service <a href="http://delicious.com/" style="color: rgb(1, 121, 165); ">delicious</a>.  I also use this service to push links to my blog (see the sidebar to the right).  To make the process of adding bookmarks a bit easier I’ve been using a mix of <a href="http://docs.blacktree.com/quicksilver/what_is_quicksilver">Quicksilver</a>, <a href="http://codesorcery.net/pukka">Pukka</a> and <a href="http://www.apple.com/applescript/">Apple Script</a>.  </p>
-</description>
+	  <p>With almost 100 feeds sitting in my RSS reader (<a href="http://www.newsgator.com/INDIVIDUALS/NETNEWSWIRE/">Net News Wire</a>) I’ve got a lot of information coming at me everyday.  When I see something that I know I’ll want to come back to later I save it as a bookmark on the social bookmarking service <a href="http://delicious.com/" style="color: rgb(1, 121, 165); ">delicious</a></p>
+</div></description>
           <link>http://distresssignal.org/jibber-jabber/2009/quickpukka.html</link>
           <pubDate>Sun, 01 Feb 2009 22:00:00 +0000</pubDate>
         </item>
