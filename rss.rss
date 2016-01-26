@@ -5,9 +5,23 @@
         <description>We shape our tools, and then our tools shape us.</description>
         <link>http://distresssignal.org</link>
         <language>en-us</language>
-        <lastBuildDate>Sat, 23 Jan 2016 22:08:40 -0500</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jan 2016 15:35:45 -0500</lastBuildDate>
         <pubDate>Mon, 13 Oct 1970 16:45:00 +0000</pubDate>
         <ttl>1800</ttl>
+        
+        <item>
+          <title>Stop Wasting Time Online</title>
+          <description><div class="articleBody clearfix">
+  <p>I’ve been wasting way too much time online lately. So I built a <a href="http://stopwastingtime.online">reminder</a>, and am now redirecting distracting services like Twitter, and Instagram directly to it. Now, if I try to access Twitter, I get a strong prompt to <a href="http://stopwastingtime.online">stopwastingtime.online</a>.</p>
+
+  <img src="http://distresssignal.org/images/posts/swto.jpg" alt="">
+
+<p>I’m a news junkie, and I love learning new things, but the web never sleeps. Professionally speaking, learning is a big part of my job. Keeping up with the latest approaches, frameworks, utilities, etc. that make up the world of full-stack web development is important—<strong>but it never stops</strong>. </p>
+
+</description>
+          <link>http://distresssignal.org/jibber-jabber/2016/stop-wasting-time-online.html</link>
+          <pubDate>Tue, 26 Jan 2016 17:00:00 +0000</pubDate>
+        </item>
         
         <item>
           <title>Blizzard of 2016</title>
