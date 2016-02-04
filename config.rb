@@ -54,7 +54,6 @@ set :css_dir, 'stylesheets'
 set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
-
 activate :blog do |blog|
   # set options on blog
   blog.layout = "article"
@@ -83,8 +82,8 @@ end
 
 # Markdown configuration
 set :markdown_engine, :kramdown
-set :markdown, :layout_engine => :erb, 
-               :tables => true, 
+set :markdown, :layout_engine => :erb,
+               :tables => true,
                :autolink => true,
                :smartypants => true
 # Build-specific configuration
