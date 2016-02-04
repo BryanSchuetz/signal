@@ -17,7 +17,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <meta name="description" content="The Distress Signal: lightweight backpacking, web design, web development, os x, photography.">
 
-    <title>Blizzard of 2016 ||| The Distress Signal</title>
+    <title>Jekyll Tag Archive Pages ||| The Distress Signal</title>
     <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css" />
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js" type="text/javascript"></script>
 <script src="http://use.typekit.net/rkg8wod.js" type="text/javascript"></script>
@@ -37,7 +37,7 @@
   </head>
   
   <body lang="en">
-    <div id="container"> 
+    <div id="container">
       <header>
         <h1><a href="/">Distress Signal</a></h1>
     <div id="intro">
@@ -45,13 +45,26 @@
     </div>
     <hr>
         <nav class="clearfix">
-          <span class="navLinks details"><a rel="me" href="http://twitter.com/bryanschuetz"><i class="ss-icon ss-social-circle">&#xF611;</i>Twitter</a><a href="/rss.rss"><i class="ss-icon ss-social-circle">&#xE310;</i>RSS</a><a rel="me" class="last" href="mailto:bschuetz@gmail.com"><i class="ss-icon ss-social-circle">&#x2709;</i>Contact</a></span>
-</nav>
+          <div class="navButton button previousButton">
+            <a class="previous details" href="/jibber-jabber/2016/wolf-hall.html"><span class="ss-icon ">&#x23EA;</span>Earlier</a>
+          </div>
+          
+          
+            <div class="navButton button nextButton">
+              <a href="/archives.html" class="next details">Archive<span class="ss-icon">&#xE9A1;</span></a>
+            </div>
+          
+         <span class="navLinks details"><a href="http://twitter.com"><i class="ss-icon ss-social-circle">&#xF611;</i>Twitter</a><a href="/rss.rss"><i class="ss-icon ss-social-circle">&#xE310;</i>RSS</a><a class="last" href="mailto:blank@blank.com"><i class="ss-icon ss-social-circle">&#x2709;</i>Contact</a></span>
+        </nav>
       </header>
-      <article class="lead">
-    <h2><a href="/jibber-jabber/2016/jekyll-tags.html">Jekyll Tag Archive Pages</a></h2>
-    <span class="postDetails clearfix"><time datetime="02-2016" class="date details">Feb  3 2016</time></span>
-    <div class="articleBody clearfix">
+      <article class="single">
+        <h2><a href="/jibber-jabber/2016/jekyll-tags.html">Jekyll Tag Archive Pages</a></h2>
+        <span class="postDetails clearfix"><time class="date details">Feb  3 2016</time><span class="tagLinks details">Tags: 	
+	  <span class="tags"><a class="tags" href="/jibber-jabber/tags/web-development.html">web-development</a></span>
+	
+	  <span class="tags"><a class="tags" href="/jibber-jabber/tags/jekyll.html">jekyll</a></span>
+	</span></span>
+        <div class="articleBody clearfix">
   <p>If you’ve ever built a site with <a href="http://jekyllrb.com">Jekyll</a>, chances are pretty good that at some point you’ve asked yourself—how do I setup tag archive pages? The truth is that it’s kind of a pain. </p>
 
   <img src="http://distresssignal.org/images/posts/jekyll-tags.jpg" alt="">
@@ -61,67 +74,20 @@
   <p><strong>Once all other options have been exhausted, the answer must be javascript.</strong></p>
 
 
-    <p class="readmore details"><a href="/jibber-jabber/2016/jekyll-tags.html"<i class="ss-icon">&#x21AA;</i> Read More</a></p>
-  </article>
-  <br>
-  <article class="">
-    <h2><a href="/jibber-jabber/2016/wolf-hall.html">Wolf Hall</a></h2>
-    <span class="postDetails clearfix"><time datetime="01-2016" class="date details">Jan 27 2016</time></span>
-    <div class="articleBody clearfix">
-  <blockquote>
-    <p>The trouble with England, he thinks, is that it&#8217;s so poor in gesture. We shall have to develop a hand signal for ‘Back off, our prince is fucking this man&#8217;s daughter.’ He is surprised that the Italians have not done it. Though perhaps they have, and he just never caught on.</p>
-  </blockquote>
 
-<p><a href="https://www.goodreads.com/book/show/6101138-wolf-hall">So good</a>.</p>
+  <p>Just to be clear: When I say ‘tag archive pages’ I mean a page for each tag that displays all posts on the site using that tag. It’s a very common pattern for most blog-like sites.</p>
+
+  <p>So, how to do this on a static site with Javascript? Well, one option is to pass the requested tag via a <a href="https://en.wikipedia.org/wiki/Query_string">query string</a> in the URL, and then use that variable to show the right posts. </p>
+
+  <p>It’s just text, so I opted for a single index page that lists all the posts grouped by tag—with each block hidden by default. Then I can just grab that tag variable and show the right block. Here’s a Gist so you can get the gist…</p>
+
+  <script src="https://gist.github.com/BryanSchuetz/443f1600d772c2e2bd9d.js"></script>
+
+  <p>I thought for a moment about building out my index of posts as a JSON file and then using JQuery to parse and display the right posts—but after looking at the performance of the above solution, going through JSON seemed like overkill.</p>
 </div>
 
-    <p class="readmore details"><a href="/jibber-jabber/2016/wolf-hall.html"<i class="ss-icon">&#x21AA;</i> Read More</a></p>
-  </article>
-  <br>
-  <article class="">
-    <h2><a href="/jibber-jabber/2016/stop-wasting-time-online.html">Stop Wasting Time Online</a></h2>
-    <span class="postDetails clearfix"><time datetime="01-2016" class="date details">Jan 26 2016</time></span>
-    <div class="articleBody clearfix">
-  <p>I’ve been wasting way too much time online lately. So I built a <a href="http://stopwastingtime.online">reminder</a>, and am now redirecting distracting services like Twitter, and Instagram directly to it. Now, if I try to access Twitter, I get a strong prompt to <a href="http://stopwastingtime.online">stopwastingtime.online</a>.</p>
-
-  <img src="http://distresssignal.org/images/posts/swto.jpg" alt="">
-
-<p>I’m a news junkie, and I love learning new things, but the web never sleeps. Professionally speaking, learning is a big part of my job. Keeping up with the latest approaches, frameworks, utilities, etc. that make up the world of full-stack web development is important—<strong>but it never stops</strong>. </p>
-
-
-    <p class="readmore details"><a href="/jibber-jabber/2016/stop-wasting-time-online.html"<i class="ss-icon">&#x21AA;</i> Read More</a></p>
-  </article>
-  <br>
-  <article class="">
-    <h2><a href="/jibber-jabber/2016/blizzard.html">Blizzard of 2016</a></h2>
-    <span class="postDetails clearfix"><time datetime="01-2016" class="date details">Jan 23 2016</time></span>
-    <div class="articleBody clearfix">
-
-  <img src="http://distresssignal.org/images/posts/tree.jpg" alt="">
-
-</div>
-
-    <p class="readmore details"><a href="/jibber-jabber/2016/blizzard.html"<i class="ss-icon">&#x21AA;</i> Read More</a></p>
-  </article>
-  <br>
-    
-    <p class="details pagination">Page 1 of 10</p>
-  <nav class="clearfix">
-          
-        <div class="button previousButton emptyButton">
-          <a class="previous details" href="#"><span class="ss-icon ">rewind</span>Previous</a>
-        </div>
-      
-      
-        <div class="button nextButton">
-          <a class="next details" href="/page/2/">Next<span class="ss-icon ">fastforward</span></a>
-        </div>
-      
-  </nav>
-  
-
-
-    <footer class="footer clearfix">
+      </article>
+      <footer class="footer clearfix">
 	<div class="contact">
 		<p class="details">The Distress Signal is the personal blog of <span class="h-card"><a class="u-url" rel="me" href="http://distresssignal.org">Bryan Schuetz</a><img style="display: none;" src="http://www.gravatar.com/avatar/b1f0aaa5169b785bc9f833a12aba5b3c.png" class="u-photo" /></span>.Bryan has been complaining on the Internet since the 90s. If you'd like to get in touch with Bryan, you can <a href="mailto:bschuetz@gmail.com">mail</a> him or find him on <a href="http://twitter.com/bryanschuetz">twitter</a>.</p>
 	</div>
@@ -148,5 +114,4 @@
 </footer>
     </div>
   </body>
-
 </html>

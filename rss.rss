@@ -5,9 +5,25 @@
         <description>We shape our tools, and then our tools shape us.</description>
         <link>http://distresssignal.org</link>
         <language>en-us</language>
-        <lastBuildDate>Wed, 27 Jan 2016 09:43:45 -0500</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2016 19:07:42 -0500</lastBuildDate>
         <pubDate>Mon, 13 Oct 1970 16:45:00 +0000</pubDate>
         <ttl>1800</ttl>
+        
+        <item>
+          <title>Jekyll Tag Archive Pages</title>
+          <description><div class="articleBody clearfix">
+  <p>If you’ve ever built a site with <a href="http://jekyllrb.com">Jekyll</a>, chances are pretty good that at some point you’ve asked yourself—how do I setup tag archive pages? The truth is that it’s kind of a pain. </p>
+
+  <img src="http://distresssignal.org/images/posts/jekyll-tags.jpg" alt="">
+
+  <p>Jekyll won’t do it for you out of the box. You could write your own ruby to do it—but if you’re using <a href="https://help.github.com/articles/using-jekyll-with-pages/">GitHub Pages</a> to build the site, your plugin won’t work. You could build the site locally and then push the output to GitHub Pages—but if other people need to update the site, welcome to the bottleneck. You could manually create them—but if you’re handing the site off to a client, that’s not really sustainable. </p>
+
+  <p><strong>Once all other options have been exhausted, the answer must be javascript.</strong></p>
+
+</description>
+          <link>http://distresssignal.org/jibber-jabber/2016/jekyll-tags.html</link>
+          <pubDate>Wed, 03 Feb 2016 06:00:00 +0000</pubDate>
+        </item>
         
         <item>
           <title>Wolf Hall</title>
