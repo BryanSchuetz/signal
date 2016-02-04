@@ -6,15 +6,17 @@
         <link>http://distresssignal.org</link>
         <language>en-us</language>
         <lastBuildDate><%= Time.now.strftime("%a, %d %b %Y %H:%M:%S %z") %></lastBuildDate>
-        <pubDate>Mon, 13 Oct 1970 16:45:00 +0000</pubDate>
+        <pubDate><%= Time.now.strftime("%a, %d %b %Y %H:%M:%S %z") %></pubDate>
         <ttl>1800</ttl>
         <% blog.articles.each_with_index do |article| %>
         <item>
           <title><%= escape_html article.title %></title>
-          <description><%= article.summary %></description>
+          <description>
+            <%= article.summary %>
+          </description>
           <link>http://distresssignal.org<%= article.url %></link>
           <pubDate><%= article.date.strftime("%a, %d %b %Y %H:%M:%S %z") %></pubDate>
         </item>
-        <% end %> 
+        <% end %>
 </channel>
 </rss>
