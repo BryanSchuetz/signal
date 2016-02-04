@@ -5,13 +5,14 @@
         <description>We shape our tools, and then our tools shape us.</description>
         <link>http://distresssignal.org</link>
         <language>en-us</language>
-        <lastBuildDate>Thu, 04 Feb 2016 07:33:51 -0500</lastBuildDate>
-        <pubDate>Mon, 13 Oct 1970 16:45:00 +0000</pubDate>
+        <lastBuildDate>Thu, 04 Feb 2016 07:43:53 -0500</lastBuildDate>
+        <pubDate>Thu, 04 Feb 2016 07:43:53 -0500</pubDate>
         <ttl>1800</ttl>
         
         <item>
           <title>Jekyll Tag Archive Pages</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
   <p>If you’ve ever built a site with <a href="http://jekyllrb.com">Jekyll</a>, chances are pretty good that at some point you’ve asked yourself—how do I setup tag archive pages? The truth is that it’s kind of a pain. </p>
 
   <img src="http://distresssignal.org/images/posts/jekyll-tags.jpg" alt="">
@@ -20,54 +21,62 @@
 
   <p><strong>Once all other options have been exhausted, the answer must be javascript.</strong></p>
 
-</description>
+
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2016/jekyll-tags.html</link>
           <pubDate>Wed, 03 Feb 2016 08:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>Wolf Hall</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
   <blockquote>
     <p>The trouble with England, he thinks, is that it&#8217;s so poor in gesture. We shall have to develop a hand signal for ‘Back off, our prince is fucking this man&#8217;s daughter.’ He is surprised that the Italians have not done it. Though perhaps they have, and he just never caught on.</p>
   </blockquote>
 
 <p><a href="https://www.goodreads.com/book/show/6101138-wolf-hall">So good</a>.</p>
 </div>
-</description>
+
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2016/wolf-hall.html</link>
           <pubDate>Wed, 27 Jan 2016 06:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>Stop Wasting Time Online</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
   <p>I’ve been wasting way too much time online lately. So I built a <a href="http://stopwastingtime.online">reminder</a>, and am now redirecting distracting services like Twitter, and Instagram directly to it. Now, if I try to access Twitter, I get a strong prompt to <a href="http://stopwastingtime.online">stopwastingtime.online</a>.</p>
 
   <img src="http://distresssignal.org/images/posts/swto.jpg" alt="">
 
 <p>I’m a news junkie, and I love learning new things, but the web never sleeps. Professionally speaking, learning is a big part of my job. Keeping up with the latest approaches, frameworks, utilities, etc. that make up the world of full-stack web development is important—<strong>but it never stops</strong>. </p>
 
-</description>
+
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2016/stop-wasting-time-online.html</link>
           <pubDate>Tue, 26 Jan 2016 17:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>Blizzard of 2016</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
 
   <img src="http://distresssignal.org/images/posts/tree.jpg" alt="">
 
 </div>
-</description>
+
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2016/blizzard.html</link>
           <pubDate>Sat, 23 Jan 2016 17:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>Culture Ship Randomizer</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
 
   <p>I have to name things all the time—servers, databases, directories, functions, classes, mixins, etc. It's kind of a pain. As <a href="https://www.quora.com/Why-is-naming-things-hard-in-computer-science-and-how-can-it-can-be-made-easier?share=1">everyone knows</a>:
   </p>
@@ -78,355 +87,426 @@
 
   <img src="http://distresssignal.org/images/posts/culture-tools.jpg" alt="">
 
-</description>
+
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2015/culture-namer.html</link>
           <pubDate>Sun, 22 Mar 2015 17:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>Tier</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
   <p>I'm currently reading the <a href="http://en.wikipedia.org/wiki/Excession">fifth</a> book in Iain Banks' <a href="http://en.wikipedia.org/wiki/Culture_series">Culture Series</a> and I think it may be the best one yet. At least, it finally provides that in-depth view of the Culture one looks for after four books of skirting around on the periphery. Banks fills all the books with such an amazing amount of creative detail that the history, geography, and ecology of even minor civilzations jump from the page. A case in point, is this brief description of Tier:</p>
   <blockquote>
     <p>Tier was a stepped habitat; its nine levels all revolved at the same speed, but that meant that the outer tiers possessed greater apparent gravity than those nearer the centre. The levels themselves were sectioned into compartments up to hundreds of kilometres long and filled with atmospheres of different types and held at different temperatures, while a stunningly complicated and dazzlingly beautiful array of mirrors and mirrorfields situated within the staggered cone of the world's axis provided amounts of sunlight precisely timed, attenuated and where necessary altered in wavelength to mimic the conditions on a hundred different worlds for a hundred different intelligent species.
     </p>
   </blockquote>
-  </description>
+  
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2015/tier.html</link>
           <pubDate>Thu, 19 Feb 2015 17:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>Open Table Alerts</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
   <p>Sometimes I forget to do stuff. Like making reservations for Valentines Day Dinner weeks and weeks in advance because the girl wants to go to some super popular restaurant. What to do? Well, if the restaurant refuses to keep a stand-by list and is wired up to something like <a href="http://opentable.com">Open Table</a> it's not as bad as you might think.</p>
   <img src="http://distresssignal.org/images/posts/resicat.jpg" alt="">
 
 
   <p>I knocked up this quick script to query Open Table for available reservations for 2 with the target restaurant at 7:00pm on the 14th. If it's still all booked up, I'll get a very sad notification from Resicat letting me know. If there's a cancellation and something opens up, Resicat will speak up and give me a link to book the newly opened table.</p>
-</description>
+
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2015/open-table-alerts.html</link>
           <pubDate>Tue, 03 Feb 2015 17:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>National Cathedral</title>
-          <description><div class="articleBody clearfix">
-<img src="/images/posts/window_large.jpg" /></description>
+          <description>
+            <div class="articleBody clearfix">
+<img src="/images/posts/window_large.jpg" />
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2015/cathedral.html</link>
           <pubDate>Sun, 25 Jan 2015 17:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>Baltimore</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
 <p>I lived in Baltimore for nearly 10 years, it's maybe my favorite city in America. <a href="http://en.wikipedia.org/wiki/The_Wire">The Wire</a> was in production for most of the time I was living there, and it was a common sight to see actors milling about a cluster of Haddad's trucks anywhere in the city. It is, without a doubt, one of the best TV shows ever.</p>
   <blockquote>
     Is the universe sufficiently vast to contain both the empirical fact that a Faidley’s backfin crabcake is the world’s best and that Baltimore is the fifth most dangerous city in America?
   </blockquote>
 <p>There aren't enough favorite buttons on the internet to express how much I love <a href="http://davidsimon.com/the-wire-and-baltimore/">this response</a> from the shows creator <a href="http://en.wikipedia.org/wiki/David_Simon">David Simon</a> to "critics" who claim his work puts Baltimore in an unfavorable light.</p>
 </div>
-</description>
+
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2014/the-wire.html</link>
           <pubDate>Mon, 01 Dec 2014 17:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>In the Middle with Middleman and Frameless</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
 	<p>I love <a href="http://middlemanapp.com/" title="http://middlemanapp.com/">Middleman</a>. It's simple, powerful, and fast. I've been playing with Rails and Rails prototyping for a while, mostly with <a href="http://get-serve.com/" title="http://get-serve.com/">Serve</a>—and with static site generators like <a href="http://octopress.org/" title="http://octopress.org/">Jekyll</a> and <a href="http://octopress.org/" title="http://octopress.org/">Octopress</a> for about just as long. I think Middleman is the best of all of them.
 	</p>
 	<img src="/images/posts/frameless.jpg" />
-	</description>
+	
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2013/middleman-and-frameless.html</link>
           <pubDate>Fri, 19 Apr 2013 22:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>Winter Crow Roosts</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
 	<p>It’s March, and the arrival of Springtime means the end of the large crow roosts. I’d never known about crow roosts before I moved into my current apartment, but apparently during the Winter crows gather in large numbers in the evening hours and then fly off to spend the whole night gathered together in one spot as a <a href="http://en.wikipedia.org/wiki/Communal_roosting">roost</a>. Roosts can range in size from a hundered crows to hundereds of thousands of crows.</p> 
 	<p><iframe src="http://player.vimeo.com/video/61431615" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></p>
-	</description>
+	
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2013/winter-crow-roosts.html</link>
           <pubDate>Sat, 09 Mar 2013 22:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>24 Hours in Shenandoah: Marshall Mountain</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
 	 <p>Another weekend and another chance to spend 24 hours in Shenandoah. This time I was up on Marshall Mountain in the Northern section of the park. The loop starts at the Jenkins Gap overlook around the 12 mile mark on Skyline Drive. I’ve gone both ways around on this loop and I definitely think coming back on the Appalachian Trail is the way to go. That section of the loop has the best views and there are some real choice spots for pitching a shelter up on the ridge.</p>
 	 <img src="/images/posts/marshallImg.jpg" />
 	<p>Find the trailhead for the Mount Marshall trail just south of the Jenkins Gap overlook on the left. This part of the loop to Bluff Trail follows an old fire road, it’s broad, generally level, and perfect for quickly putting a couple miles behind you. I was lucky enough this morning to have a deer keeping pace about 20 yards ahead of me for the first mile or so, generously breaking the trail of all those annoying early morning spiderwebs I normally take right in the face. Eventually though, I guess I got to close and he scrambled up the hill to the right of the trail and was out of sight. </p>
-	</description>
+	
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2012/24-hours-shenandoah-marshall-mountain.html</link>
           <pubDate>Tue, 03 Jul 2012 22:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>Quicksilver</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
 	 <blockquote>To be a European Christian (the rest of the world might be forgiven for thinking) was to build ships and sail them to any and all coasts not already a-bristle with cannons, make landfall at river’s mouth, kiss the dirt, plant a cross for a flag...</blockquote>
-</div></description>
+</div>
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2012/quicksilver.html</link>
           <pubDate>Wed, 20 Jun 2012 22:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>Sunset In Shenandoah</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
 	 <img src="/images/posts/sunset.jpg" />
-	 </description>
+	 
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2010/sunset-in-shenandoah.html</link>
           <pubDate>Fri, 10 Sep 2010 22:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>AppleBlog Roundup 4</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
 		 <p>Well, another couple weeks have gone by and it’s time for another roundup of recent articles I’ve written over at <a href="http://theappleblog.com">TheAppleBlog</a>. Maybe one of these days I’ll figure out a better way to bring all my content together but until then here’s roundup number four.</p>
 	<p>
 		<a href="http://theappleblog.com/2010/08/16/how-to-iphone-hdr/">iPhone HDR:</a> I played around with some HDR apps for the iPhone and tried out the new HDR Pro tools in photoshop CS5. In the final analysis, the iPhone camera is just a 5 megapixel cameraphone and it’s never gonna produce the kind of photos one can get with a DSLR. Never the less, constraints are good for creativity and the iPhone is still my favorite camera to have with me on a hike.
 	</p>
-	</description>
+	
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2010/appleblog-roundup-4.html</link>
           <pubDate>Thu, 05 Aug 2010 22:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>Trail Photography &amp; iPhone</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
 	 <img src="/images/posts/marshallhawk.jpg" />
-	 </description>
+	 
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2010/trail-photography-iphone-shenandoah.html</link>
           <pubDate>Wed, 04 Aug 2010 22:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>24 Hours in Shenandoah: Knob Mountain</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
 	 <p>I managed to get out for a quick loop hike in Shenandoah last weekend, 24 hours quick to be exact. To me, 24 hours seems to be almost the perfect length of time to be able to enjoy an easy bit of backpacking. I can head out early on a Saturday hike all day, find a nice place to spend the night, hike out in the morning, and still have time Sunday to run errands and get ready for the upcoming week. This weekend I was out on Knob mountain.</p>
 	 <img src="/images/posts/knob.jpg" />
 	 <p>The trailhead starts at about the 24 mile mark on SkyLine Drive at the bottom of the Elk Wallow picnic grounds. Pick up the Appalachian Trail (38.74109 -78.31198) and start heading south. After about half a mile you connect with Jeremy’s Run Trail (38.74295 -78.31369). The AT breaks off to the left but you’ll want to stay straight and continue heading NW towards Jeremy’s Run. It’s a nice easy walk descending into the wilderness area, the trail is broad and really well maintained here with nice views into the valley to the east. I spotted a couple deer here and the trail was full of evidence of their passing.</p>
-	 </description>
+	 
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2010/24-hours-shenandoah-knob-mountain.html</link>
           <pubDate>Sun, 01 Aug 2010 22:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>A Quick Walk</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
 	<p>I got out for a quick walk the other day, partly to check out a new trail I found recently and partly to test out the camera in my new phone (iPhone 4). The trail is only about 5 minutes away from my place, so it’s not exactly out in the middle of the wilderness. Being right next door though and only like 4 miles long makes it a great option when the mood strikes in the middle of the day. There’s also a ton of cutoff trails leading to the edges of the park so there’s lots of opportunities to explore.</p>
 	<img src="/images/posts/walkseneca.jpg" />
-	</description>
+	
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2010/quick-walk.html</link>
           <pubDate>Thu, 15 Jul 2010 22:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>Heart Sutra</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
 	 <p>I’ve been thinking on the Buddhist Heart Sutra quite a bit lately. If you’re not familiar with the specific aspects of Buddhist philosophy represented in this particular sutra I’ll give you the cliff notes.</p>
 	 <blockquote>All things are empty: Nothing is born, nothing dies, nothing is pure, nothing is stained, nothing increases and nothing decreases.</blockquote>
 	 <img src="/images/posts/heartsutra.jpg" />
 	 <p>It’s essentially all about the notion that everything around us (objects, phenomena, people) actually exists without any inherent substantiality. Instead their nature is derived from this interconnected web of perception and experience; nothing stands apart and nothing stands forever. At least that’s what I think it means, but what the fuck do I know.</p>
-	 </description>
+	 
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2010/heart-sutra.html</link>
           <pubDate>Thu, 01 Jul 2010 22:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>Everything Ends</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
 	 <img src="/images/posts/everythingends.jpg" />
-	 </description>
+	 
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2010/everything-ends.html</link>
           <pubDate>Sun, 20 Jun 2010 22:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>Clouds</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
 	<img src="/images/posts/clouds.jpg" />
-	</description>
+	
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2010/clouds.html</link>
           <pubDate>Thu, 10 Jun 2010 22:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>Final Codex</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
 	<p>I wrote this plug-in for Google’s <a href="http://code.google.com/p/qsb-mac/">Quick Search Box</a> a <a href="http://theappleblog.com/2009/12/31/how-to-replicating-codas-books-feature-with-google-quick-search-box/">while back</a> to replicate a bit of functionality from <a href="http://www.panic.com/coda/">Coda</a> that I lost when I moved over to <a href="http://macrabbit.com/espresso/">Espresso</a>. The gist of the plug-in is that it lets you quickly send search queries to documentation sources for things like HTML, CSS, jQery, Python, MySQL, and so on. I do a lot of these kinds of quick looks into documentation as I’m working so having a quick and easy method for it is helpful.</p>
 	<img src="/images/posts/codex.jpg" />
-	</description>
+	
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2010/final-codex.html</link>
           <pubDate>Sat, 05 Jun 2010 22:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>A New Home</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
 	<p>I’ve been meaning to dig into <a href="http://tumblr.com">Tumblr</a> themes for a while now, but I’m a total slacker so the notion’s never progressed beyond a to do item in my next pile, until now. This weekend I decided to dedicate some time to figuring out how it all worked and at least getting the shell of something I like together. After working through the process from scratch I have to say, I like it quite a bit. As far as theming goes I’d be hard pressed to imagine an approach that provides more ease and flexibility than the one the Tumblr folks have come up with. After reading through their <a href="http://www.tumblr.com/docs/en/api">API</a> and crystal balling future plans, I’m also really impressed with the service as a whole. So much so that I think I’ll stay. I’ve been on my own WordPress install for quite a while now and to be honest I think it’s just overkill for me. Especially when you consider how infrequently I post.</p>
-	</description>
+	
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2010/new-home.html</link>
           <pubDate>Thu, 20 May 2010 22:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>AppleBlog Roundup 3</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
 	<p>Over the last couple of weeks (OK.. so more like months, I’m a bit of a slacker) I’ve written a few posts over at <a href="http://theappleblog.com">TheAppleBlog</a> and I just wanted to include them here for the sake of completeness. A few of these are on Google Quick Search Box which, while being a great little app, has frustrated me a bit with it’s lack of forward progress in Beta. I’ve recently switched over to <a href="http://www.obdev.at/products/launchbar/index.html">Launchbar5</a> for all my GUI Ninja Tricks and I have to say I think it’s far better at the moment than QSB. If you’re into doing a lot of stuff very quickly from the keyboard, you might want to check it out.</p>
 <p><a href="http://theappleblog.com/2009/10/13/video-walkthrough-getting-serious-with-quick-search-box/">QSB Video Walkthrough:</a> I was playing around with <a href="http://www.google.com/quicksearchbox/">Google Quick Search Box</a> recently and was really surprised by all the functionality it provides. Once I got it fully set up with plugins and services, I realized it can give me just about everything I used to rely on <a href="http://theappleblog.com/quicksilver-the-guide/" style="color: rgb(1, 121, 165); ">Quicksilver</a> for.</p>
-</description>
+
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2010/appleblog-roundup-3.html</link>
           <pubDate>Mon, 10 May 2010 22:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>Knob Mountain</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
 	<img src="/images/posts/knobnight.jpg" />
-	</description>
+	
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2010/knob-mountain.html</link>
           <pubDate>Wed, 05 May 2010 22:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>Spring</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
 	<img src="/images/posts/spring.jpg" />
-	</description>
+	
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2010/spring.html</link>
           <pubDate>Mon, 01 Mar 2010 22:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>Cold Stone</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
 	<img src="/images/posts/coldstones.jpg" />
-	</description>
+	
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2010/cold-stones.html</link>
           <pubDate>Mon, 15 Feb 2010 22:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>Snowmagedon</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
 	<img src="/images/posts/snowmagedon.jpg" />
-	</description>
+	
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2010/snowmagedon.html</link>
           <pubDate>Fri, 15 Jan 2010 22:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>Shenandoah</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
 	<p>I spent last weekend hiking around in <a href="http://www.nps.gov/shen/index.htm" style="color: rgb(1, 121, 165); "> Shenandoah National Park </a> and despite having not been hiking for  a long time had an absolute blast. The park runs roughly north south for over 100 miles along the spine of the Blue Ridge Mountains and encompasses...</p>
-</div></description>
+</div>
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2009/shenandoah.html</link>
           <pubDate>Tue, 15 Sep 2009 22:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>AppleBlog Roundup 2</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
 	 <p>Over the last couple of weeks I’ve written a few articles over at <a href="http://theappleblog.com/author/bryanschuetz/" style="color: rgb(1, 121, 165); ">TheAppleBlog</a> and wanted to include a roundup post to them all here for the sake of completeness:</p>
 	<p><a href="http://theappleblog.com/2009/06/30/fairmount-convert-your-dvd-collection/">Convert Your DVD Collection with Fairmount:</a> We’ve all had situations where we’ve...</p>
-</div></description>
+</div>
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2009/appleblog-roundup-2.html</link>
           <pubDate>Mon, 10 Aug 2009 22:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>Wikipedia is Evil</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
 	  <p><a href="http://www.wikipedia.org/">Wikipedia</a> is evil, yeah that’s right evil. The other day I was tooling around in the o’le RSS river of news when I stumbled upon a random tweet from apparent <a href="http://en.wikipedia.org/wiki/Daniel_J._Bernstein" style="color: rgb(1, 121, 165); ">computing legend</a>  Daniel Bernstein. Who, though I confess I’d never heard of him before...</p>
-</div></description>
+</div>
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2009/wikipedia-is-evil.html</link>
           <pubDate>Sun, 05 Jul 2009 22:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>Verified Reporters</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
 	 <p>I spent some time last night tracking the events unfolding in Iran following the apparent re-election of President Mahmoud Ahmadinejad. Unless you’ve been living under a rock for the last 48 hours you know that there appears to be widespread doubt...</p>
-</div></description>
+</div>
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2009/verified-reporters.html</link>
           <pubDate>Sat, 20 Jun 2009 22:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>AppleBlog Roundup 1</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
 	 <p>Over the last couple of weeks I’ve written a few articles over at <a href="http://theappleblog.com/author/bryanschuetz/">TheAppleBlog</a> and wanted to include a roundup post to them all here for the sake of completeness:</p>
 	<p><a href="http://theappleblog.com/2009/06/23/nambu-solves-twitter-clutter/">Nambu Review:</a> A quick review of the native OS X twitter client Nambu.  I like Nambu...</p>
-</div></description>
+</div>
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2009/appleblog-roundup-1.html</link>
           <pubDate>Fri, 05 Jun 2009 22:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>Feed a Fever</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
 	 <p>I’ve gone through a number of different solutions for managing my RSS feeds. It’s been an ongoing evolution from Live Bookmarks to BlogLines to GoogleReader to NetNewsWire to my most recent solution, using sync’d versions of NewsFire. I absolutely...</p>
-</div></description>
+</div>
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2009/feed-a-fever.html</link>
           <pubDate>Mon, 01 Jun 2009 22:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>All Things Apple</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
 	  <p>So I’ve decided to go ahead and throw in my lot with the good folks over at TheAppleBlog when it comes to my rants and reviews about all things Apple, OS X and the like. You’ll be able to see the articles I contribute over there by going to my...</p>
-</div></description>
+</div>
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2009/all-things-apple.html</link>
           <pubDate>Wed, 20 May 2009 22:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>What Can I Dev For My Country</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
 	<p>A little while ago I ran across <a href="http://web.archive.org/web/20090226004533/http://technosailor.com/2009/02/21/ask-not-what-your-country-can-dev-for-you/">this post</a> from <a href="http://twitter.com/corbett3000">@corbett3000</a> about the need for greater civic involvement from the tech community. This was a call to "build stuff that matters” to help the country do more with less, keep our leaders honest, their...</p>
-</div></description>
+</div>
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2009/what-can-i-dev.html</link>
           <pubDate>Wed, 25 Feb 2009 22:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>Syncing NewsFire</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
 	  <p>I just switched all my feed reading over to the newly released 1.6 version of <a href="http://www.newsfirex.com/blog/?p=383">NewsFire</a> and I’m loving it. The interface is gorgeous and the keyboard shortcuts make powering through a large number of feeds a breeze. Add in the new twitter <a href="http://www.newsfirex.com/blog/?p=364">plugin...</a></p>
-</div></description>
+</div>
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2009/syncing-newsfire.html</link>
           <pubDate>Sun, 15 Feb 2009 22:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>Acceleration Curves</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
   	<p>I love OS X. It’s far and away the best operating system I’ve ever used.  There are a couple things about it though that have always been a frustration for me. Chief among them is the way movement of the mouse on your desk is translated to movement...</p>
-</div></description>
+</div>
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2009/acceleration-curves.html</link>
           <pubDate>Wed, 11 Feb 2009 22:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>Pimp Your Quicklook</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
 	  <p>I’m lucky enough to be able to work on an OS X system at my day job but officially it’s a “Microsoft shop” with most people on Windows and our intranet powered by <a href="http://www.microsoft.com/Sharepoint/default.mspx">SharePoint</a>. We store a lot of documents on SharePoint and it’s always a pain in the...</p>
-</div></description>
+</div>
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2009/pimp-your-quicklook.html</link>
           <pubDate>Tue, 10 Feb 2009 22:00:00 +0000</pubDate>
         </item>
         
         <item>
           <title>QuickPukka</title>
-          <description><div class="articleBody clearfix">
+          <description>
+            <div class="articleBody clearfix">
 	  <p>With almost 100 feeds sitting in my RSS reader (<a href="http://www.newsgator.com/INDIVIDUALS/NETNEWSWIRE/">Net News Wire</a>) I’ve got a lot of information coming at me everyday.  When I see something that I know I’ll want to come back to later I save it as a bookmark on the social bookmarking service <a href="http://delicious.com/" style="color: rgb(1, 121, 165); ">delicious</a></p>
-</div></description>
+</div>
+          </description>
           <link>http://distresssignal.org/jibber-jabber/2009/quickpukka.html</link>
           <pubDate>Sun, 01 Feb 2009 22:00:00 +0000</pubDate>
         </item>
-         
+        
 </channel>
 </rss>
